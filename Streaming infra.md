@@ -1,4 +1,4 @@
-# Streaming Data Pipeline Module
+# Streaming Data infra Module
 
 **Goal**
 
