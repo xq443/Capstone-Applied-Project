@@ -1,4 +1,4 @@
-# Streaming Data Pipeline Module 1
+# Streaming Data Pipeline Module
 
 **Goal**
 
